@@ -2,4 +2,6 @@
 #### Authors: Mohammad Shifat-E-Rabbi, Naqib Sad Pathan, Shiying Li, Yan Zhuang, Abu Hasnat Mohammad Rubaiyat, and Gustavo K. Rohde
 
 
-sdfsdf
+#### Instructions:
+- Please run the script ./Code/MAIN.m
+- The results will be saved in the ./RESULTS/ directory
