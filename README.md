@@ -1,1 +1,1 @@
-# LOT-Subspace-for-Point-Sets
+## Linear optimal transport subspaces for point set classification
